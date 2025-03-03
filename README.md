@@ -6,6 +6,6 @@ This repository explores the use of generative AI models in bioinformatics to cr
 - **ProteinGAN:** Designing novel protein sequences.
 - **MolGAN:** Creating molecular graphs for drug discovery.
 
-Each model is implemented in Google Colab with step-by-step experiments and visualizations. This work is part of my learning journey into generative AI and its applications in biology.
+Each model is implemented in Google Colab with step-by-step experiments and visualizations. This work is part of my learning journey into generative AI and its applications in biology (Bioinformatics).
 
 > _Created with guidance from Qwen, a large language model by Alibaba Cloud._
